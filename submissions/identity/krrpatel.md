@@ -77,7 +77,7 @@ User → ProofSpace Frontend → Proof Generator (Backend) → SL Testnet Verifi
 This combines **privacy + usability + interoperability**, aligned with Soundness Labs’ vision of a transparent, manipulation-resistant internet.
 
 ## Contact
-- **Preferred**: Discord (krrish#2025)
+- **Preferred**: Discord (benzene777)
 - Updates: GitHub repo issues + Soundness Labs Discord channel
 
 **Checklist before submitting:**

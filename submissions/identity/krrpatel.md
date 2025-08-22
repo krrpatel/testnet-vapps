@@ -2,16 +2,16 @@
 
 ## Verification
 ```yaml
-github_username: "krrish-patel"
-discord_id: "987654321098765432"
+github_username: "krrpatel"
+discord_id: "800666284878069810"
 timestamp: "2025-08-22"
 ```
 
 ## Developer
 - **Name**: Krrish Patel
-- **GitHub**: @krrish-patel
-- **Discord**: krrish#2025
-- **Experience**: 4+ years in full-stack + blockchain. Built DeFi dApps, identity solutions, and AI-powered note/chat apps. Experienced in Rust, Node.js, and smart contract integrations.
+- **GitHub**: @krrpatel
+- **Discord**: benzene777
+- **Experience**: 1+ years in full-stack + blockchain. Built DeFi dApps, identity solutions, and AI-powered note/chat apps. Experienced in Rust, Node.js, and smart contract integrations.
 
 ## Project
 
